@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/Frikadellios"><img src="https://api.daily.dev/devcards/f53c38327dc8455ba408e0308a01137a.png?r=3t1" width="400" alt="Hrihorii Ilin's Dev Card"/></a>
 <!--
 **Frikadellios/Frikadellios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
