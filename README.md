@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://cloud.appwrite.io/card/64c928591b6c544c2cfc">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64c928591b6c544c2cfc" alt="Appwrite Cloud Card" />
+</a>
