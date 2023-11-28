@@ -1,3 +1,4 @@
+[![An image of @frikadellios8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/frikadellios8)](https://holopin.io/@frikadellios8)
 ### Hi there 👋
 <a href="https://app.daily.dev/Frikadellios"><img src="https://api.daily.dev/devcards/f53c38327dc8455ba408e0308a01137a.png?r=3t1" width="400" alt="Hrihorii Ilin's Dev Card"/></a>
 <!--
@@ -19,4 +20,4 @@ Here are some ideas to get you started:
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64c928591b6c544c2cfc" alt="Appwrite Cloud Card" />
 </a>
 
-[![An image of @frikadellios8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/frikadellios8)](https://holopin.io/@frikadellios8)
+
