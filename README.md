@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="https://cloud.appwrite.io/card/64c928591b6c544c2cfc">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64c928591b6c544c2cfc" alt="Appwrite Cloud Card" />
 </a>
+
+[![An image of @frikadellios8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/frikadellios8)](https://holopin.io/@frikadellios8)
