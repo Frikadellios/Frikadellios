@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64c928591b6c544c2cfc" alt="Appwrite Cloud Card" />
 </a>
 
+And another one :-)
+
+<a href="https://app.daily.dev/devopsick"><img src="https://api.daily.dev/devcards/v2/gVNasbkaYHIjd8fGYBlTg.png?type=default&r=m5r" width="356" alt="Hrihorii Ilin's Dev Card"/></a>
 
